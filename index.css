@@ -70,3 +70,7 @@ hr {
     align-items: space; 
     margin-left: 30px;
 }
+
+.button:active {
+    transform: translateY(4px);
+}
